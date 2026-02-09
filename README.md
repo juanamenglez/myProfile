@@ -1,34 +1,45 @@
-# Hola, soy [TU NOMBRE] 👋
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Perfil%20Visto&color=0e75b6&style=flat" alt="Vistas de perfil" />
-</p>
+<img src="https://capsule-render.vercel.app/render?type=space&height=300&section=header&text=Hola,%20soy%20[TU%20NOMBRE]&fontSize=70&animation=fadeIn&theme=tokyonight" width="100%" />
 
-### 👨‍💻 Un poco sobre mí
+# 🚀 Explorando el universo del código
 
-- 🔭 Actualmente estoy trabajando en **[Nombre de tu proyecto]**
-- 🌱 Estoy aprendiendo constantemente sobre **[Tecnología que aprendes]**
-- 💬 Pregúntame sobre **[Tus temas de interés]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti]**
-
-### 🛠️ Tecnologías y Herramientas
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-En%20Órbita-9370DB?style=for-the-badge&logo=spaceship" />
 </p>
 
 ---
 
-### 📊 Mis estadísticas de GitHub
-
-| Actividad General | Lenguajes más usados |
-| :---: | :---: |
-| ![Stats de TU_USUARIO](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight) |
+### 🌠 Mi Galaxia Tecnológica
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,python,react,git,html,css,vscode,github&theme=dark" />
+  </a>
+</p>
 
 ---
 
-### 📫 Contacto
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://linkedin.com/in/TU_PERFIL)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/TU_PERFIL)
+### 🛸 Radar de Actividad
+<table align="center" border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&icon_color=BB86FC&text_color=FFFFFF" alt="Estadísticas de GitHub" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=BB86FC&text_color=FFFFFF" alt="Lenguajes más usados" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ☄️ Bitácora de Vuelo
+- 🛰️ **Misión actual:** Desarrollando proyectos en **[Tu Proyecto]**
+- 🔭 **Observatorio:** Aprendiendo nuevas fronteras en **[Tecnología]**
+- 🌌 **Dato espacial:** *“El código es como las estrellas: parece infinito hasta que empiezas a depurar.”*
+
+---
+
+![Snake animation](https://github-user-contribution-graph-snake.vercel.app/api/github-contribution-grid-snake.svg?variant=dark&palette=github-dark)
+
+</div>
